@@ -1,0 +1,20 @@
+{
+  "name": "sms-store",
+  "version": "0.0.1",
+  "description": "store sms using twilio",
+  "main": "store.js",
+  "repository": "",
+  "license": "Proprietary",
+  "private": true,
+  "dependencies": {
+    "bluebird": "1.0.8",
+    "body-parser": "^1.5.2",
+    "express": "~4.0.0",
+    "express-partials": "~0.2.0",
+    "mongoose": "^4.1.0",
+    "nodemon": "^1.2.1",
+    "request": "^2.34.0",
+    "twilio": "^3.3.0-edge"
+  },
+  "devDependencies": {}
+}
